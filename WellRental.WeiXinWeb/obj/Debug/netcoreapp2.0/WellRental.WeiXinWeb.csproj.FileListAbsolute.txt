@@ -1,0 +1,11 @@
+C:\Work\WellRental\WellRental.WeiXinWeb\bin\Debug\netcoreapp2.0\WellRental.WeiXinWeb.deps.json
+C:\Work\WellRental\WellRental.WeiXinWeb\bin\Debug\netcoreapp2.0\WellRental.WeiXinWeb.runtimeconfig.json
+C:\Work\WellRental\WellRental.WeiXinWeb\bin\Debug\netcoreapp2.0\WellRental.WeiXinWeb.runtimeconfig.dev.json
+C:\Work\WellRental\WellRental.WeiXinWeb\bin\Debug\netcoreapp2.0\WellRental.WeiXinWeb.dll
+C:\Work\WellRental\WellRental.WeiXinWeb\obj\Debug\netcoreapp2.0\WellRental.WeiXinWeb.csprojResolveAssemblyReference.cache
+C:\Work\WellRental\WellRental.WeiXinWeb\obj\Debug\netcoreapp2.0\WellRental.WeiXinWeb.csproj.CoreCompileInputs.cache
+C:\Work\WellRental\WellRental.WeiXinWeb\obj\Debug\netcoreapp2.0\WellRental.WeiXinWeb.AssemblyInfoInputs.cache
+C:\Work\WellRental\WellRental.WeiXinWeb\obj\Debug\netcoreapp2.0\WellRental.WeiXinWeb.AssemblyInfo.cs
+C:\Work\WellRental\WellRental.WeiXinWeb\bin\Debug\netcoreapp2.0\WellRental.WeiXinWeb.pdb
+C:\Work\WellRental\WellRental.WeiXinWeb\obj\Debug\netcoreapp2.0\WellRental.WeiXinWeb.dll
+C:\Work\WellRental\WellRental.WeiXinWeb\obj\Debug\netcoreapp2.0\WellRental.WeiXinWeb.pdb

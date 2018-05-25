@@ -1,0 +1,3 @@
+﻿namespace WellRental.AdminWeb.Northwind {
+}
+

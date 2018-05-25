@@ -1,0 +1,2 @@
+﻿namespace WellRental.AdminWeb.WellRentalCenter {
+}

@@ -1,0 +1,77 @@
+{
+  "RootNamespace": "WellRental.AdminWeb",
+  "ServerTypings": {
+    "Assemblies": []
+  },
+  "Connections": [
+    {
+      "Key": "WellRentalCenter",
+      "Tables": [
+        {
+          "Tablename": "dbo.Assignment",
+          "Identifier": "Assignment",
+          "Module": "WellRentalCenter",
+          "PermissionKey": "Administration:General"
+        },
+        {
+          "Tablename": "dbo.City",
+          "Identifier": "City",
+          "Module": "WellRentalCenter",
+          "PermissionKey": "Administration:General"
+        },
+        {
+          "Tablename": "dbo.District",
+          "Identifier": "District",
+          "Module": "WellRentalCenter",
+          "PermissionKey": "Administration:General"
+        },
+        {
+          "Tablename": "dbo.Merchant",
+          "Identifier": "Merchant",
+          "Module": "WellRentalCenter",
+          "PermissionKey": "Administration:General"
+        },
+        {
+          "Tablename": "dbo.MerchantType",
+          "Identifier": "MerchantType",
+          "Module": "WellRentalCenter",
+          "PermissionKey": "Administration:General"
+        },
+        {
+          "Tablename": "dbo.Order",
+          "Identifier": "Order",
+          "Module": "WellRentalCenter",
+          "PermissionKey": "Administration:General"
+        },
+        {
+          "Tablename": "dbo.Payment",
+          "Identifier": "Payment",
+          "Module": "WellRentalCenter",
+          "PermissionKey": "Administration:General"
+        },
+        {
+          "Tablename": "dbo.Province",
+          "Identifier": "Province",
+          "Module": "WellRentalCenter",
+          "PermissionKey": "Administration:General"
+        },
+        {
+          "Tablename": "dbo.Remission",
+          "Identifier": "Remission",
+          "Module": "WellRentalCenter",
+          "PermissionKey": "Administration:General"
+        },
+        {
+          "Tablename": "dbo.WxOpenUser",
+          "Identifier": "WxOpenUser",
+          "Module": "WellRentalCenter",
+          "PermissionKey": "Administration:General"
+        }
+      ]
+    }
+  ],
+  "BaseRowClasses": [],
+  "RemoveForeignFields": [],
+  "CustomGenerate": {},
+  "CustomSettings": {}
+}

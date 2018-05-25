@@ -1,0 +1,15 @@
+﻿
+namespace WellRental.AdminWeb.WellRentalCenter {
+
+    @Serenity.Decorators.registerClass()
+    export class OrderDialog extends Serenity.EntityDialog<OrderRow, any> {
+        protected getFormKey() { return OrderForm.formKey; }
+        protected getIdProperty() { return OrderRow.idProperty; }
+        protected getLocalTextPrefix() { return OrderRow.localTextPrefix; }
+        protected getNameProperty() { return OrderRow.nameProperty; }
+        protected getService() { return OrderService.baseUrl; }
+
+        protected form = new OrderForm(this.idPrefix);
+
+    }
+}
